@@ -1,0 +1,30 @@
+.section {
+    background-color: #eee;
+    color: #000;
+    border: 2px solid slategray;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.section h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.row {
+    margin: 15px auto;
+}
+
+.row label {
+    margin: auto 35px;
+}
+
+.row input, textarea{
+    border-radius: 5px;
+    height: 20px;
+    width: 50%;
+    padding: 10px;
+}
+
+.row textarea {
+    height: 100px;
+}
